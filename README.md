@@ -13,5 +13,10 @@ In this project, I created an authentication form using React Hook Form (useForm
 - Other funtionalities as generate random password or hidden and show password.
 
 [Repository](https://github.com/marcelozair/React-Typescript-Auth-Form)
-
 [WebSite](https://react-typescript-auth-form.vercel.app/)
+
+### Movie App - watchit
+In this project, I created a movie application:
+
+[Repository](https://github.com/marcelozair/watchit)
+[WebSite](https://watchit-coral.vercel.app)
