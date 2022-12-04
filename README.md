@@ -16,7 +16,7 @@ In this project, I created an authentication form using React Hook Form (useForm
 [WebSite](https://react-typescript-auth-form.vercel.app/)
 
 ### Movie App - watchit
-In this project, I created a movie application:
+In's a movie application project
 
 [Repository](https://github.com/marcelozair/watchit)
 [WebSite](https://watchit-coral.vercel.app)
